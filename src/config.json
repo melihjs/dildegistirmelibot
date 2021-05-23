@@ -1,0 +1,12 @@
+{
+  "bot": {
+    "token": "",
+    "prefix": ""
+  },
+  "color": {
+    "error": "",
+    "success": "",
+    "stats": "",
+    "help": ""
+  }
+}
