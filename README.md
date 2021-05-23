@@ -1,0 +1,2 @@
+# dildegistirmelibot
+Dil değiştirmeli bot!
