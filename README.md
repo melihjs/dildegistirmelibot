@@ -5,4 +5,4 @@
    - **src/config.json**'u siz istediğiniz gibi doldurun!
    - Komutlar ve dil kodları tamamen hazır!
    - Sunucuya girerken dili **Türkçe** yapıyor, bunu **index.js**'in en altındaki **guildCreate** eventinden değiştirebilirsiniz!
-   - Discord sunucumuz: https://discord.gg/e2gvuDRmHm
+   - Discord sunucumuz: https://discord.gg/SGdy3jtMCB
